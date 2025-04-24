@@ -11,7 +11,7 @@ The following are the key findings:
 
 link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/01-Customer%20Net%20sales%20performance%20report-page%201-08.pdf
 
-3. **Market Performance vs. Sales Targets Comparison**  : Analysis of net sales of each market/country over the fiscal years, and comparisson of net slaes of 2021 against target.
+2. **Market Performance vs. Sales Targets Comparison**  : Analysis of net sales of each market/country over the fiscal years, and comparisson of net slaes of 2021 against target.
 
 link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/02-market%20Performance%20vs%20Target-page%201-08.pdf
 
@@ -21,10 +21,10 @@ link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/02-
 
 link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/04-P%20%26%20L%20by%20Fiscal%20Year-page%201-09.pdf
 
-3. **Quarterly Profit and Loss (P&L) Comparison** : After generating Financial report over fiscal year this reports deep dives into quaters of each fiscal year.
+2. **Quarterly Profit and Loss (P&L) Comparison** : After generating Financial report over fiscal year this reports deep dives into quaters of each fiscal year.
 
 link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/05-P%20%26%20L%20by%20Quaters-page%202-09.pdf
 
-5. **Market-Specific Profit and Loss (P&L) Report** : Financial Performance breakdown for each market over fiscal years.
+3. **Market-Specific Profit and Loss (P&L) Report** : Financial Performance breakdown for each market over fiscal years.
 
 link : https://github.com/izhar6196/Excel-Sales-and-Finance-Report/blob/main/06-P%20%26%20L%20Year%20Country%20Level-page%201-09.pdf
